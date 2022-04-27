@@ -10,7 +10,7 @@ Veja se uma carreira de programação é ou não é pra você. Ao final deste cu
 
 ---
 
-## 💡 MEU REPOSITÓRIO:
+## 💡 Meu Repositório:
 
 Aqui neste repositório, deixarei registrado minha evolução durante todo o curso.
 
