@@ -10,6 +10,12 @@ Veja se uma carreira de programação é ou não é pra você. Ao final deste cu
 
 ---
 
+## 💡 MEU REPOSITÓRIO:
+
+Aqui neste repositório, deixarei registrado minha evolução durante todo o curso.
+
+---
+
 #### Projetos da ITuring
 1. [DIA - 01](https://github.com/lellismaria/ituring-aprenda-a-programar/tree/main/dia-1)
 2. [DIA - 02]
