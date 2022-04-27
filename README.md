@@ -18,7 +18,7 @@ Aqui neste repositório, deixarei registrado minha evolução durante todo o cur
 
 #### Projetos da ITuring
 1. [DIA - 01](https://github.com/lellismaria/ituring-aprenda-a-programar/tree/main/dia-1)
-2. [DIA - 02]
+2. [DIA - 02](https://github.com/lellismaria/ituring-aprenda-a-programar/tree/main/dia-2)
 3. [DIA - 03]
 4. [DIA - 04]
 5. [DIA - 05]
